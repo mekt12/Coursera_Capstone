@@ -8,4 +8,4 @@ We will use three data sources to solve the problem.
 1)	We will get the list of neighborhoods of Los Angeles, CA  by scraping a Wikipedia page.
 2)	We will get Latitude and Longitude coordinates of the neighborhoods, in order to plot maps and use the coordinates to get venue data. We will use Python Geocoder package to get the coordinates.
 3)	We will get venue data, especially restaurants and particularly Ethiopian restaurants, in these neighborhoods using Foursquare API.
-We will use this data to perform clustering on the neighborhoods.
+ We will use this data to perform clustering on the neighborhoods.
